@@ -10,6 +10,7 @@ The Invoice Generator UI provides a visual representation of the invoice generat
 - Options to customize the invoice layout and style.
 - An export feature to generate a downloadable invoice in PDF format.
 - User dashboard management for free and premium user
+  ![my prof premium](https://github.com/user-attachments/assets/a9b18c36-831d-4979-97b0-71169b7a44cd)
 - Analytics wireframe for inventory and sales.
 
 ## Features
@@ -18,6 +19,7 @@ The Invoice Generator UI provides a visual representation of the invoice generat
 - **Customizable Templates:** Easily modify invoice templates to fit different needs.
 - **Export Options:** Generate and download invoices in PDF format.
 - **Interactive Design:** Leverage Excalidraw's interactive capabilities to refine the UI.
+  ![inventory analytics](https://github.com/user-attachments/assets/b08a647b-06d7-4765-9e4f-3fe1534aaf71)
 
 ## Getting Started
 
